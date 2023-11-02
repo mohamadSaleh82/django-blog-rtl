@@ -29,11 +29,12 @@ Django's SEO-friendly features and Bootstrap's clean HTML code ensure that your 
 
 To run this application:
 
-1. Clone this repository.
-2. Open the project in Visual Studio.
-3. Execute the "Update-Package" command from the Package Manager Console to ensure all dependencies are installed.
-4. Create an empty database named "EPatientDb" (or modify the database connection string in `App.config` if necessary).
-5. Run the application and explore its features.
+1. First, clone this repository.
+2. Open the project in Visual Studio Code or any other preferred editor.
+3. Execute the command "pip install -r requirements.txt" to install all the necessary dependencies.
+4. Execute the command "python manage.py migrate" to apply database migrations.
+5. Ensure that your firewall allows connections to the Django development server. If needed, create a rule to allow traffic on the specified port (default is 8000).
+6. Run the application using the command "python manage.py runserver" and explore its features.
 
 Don't forget to star this repository 🌟 if you find it useful!
 
