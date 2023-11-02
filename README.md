@@ -40,8 +40,8 @@ Don't forget to star this repository 🌟 if you find it useful!
 
 ## Contributions Welcome! 🙌
 
-We welcome contributions from the open-source community to make this CRM even better. Feel free to fork this repository, create issues, and submit pull requests. Together, we can enhance healthcare management solutions.
+We welcome contributions from the open-source community to make this Django even better. Feel free to fork this repository, create issues, and submit pull requests. Together, we can enhance healthcare management solutions.
 
-Thank you for using our Persian Desktop Hospital CRM. We hope it serves you well! If you have any questions or feedback, please don't hesitate to reach out.
+Thank you for using our Persian Django Blog. We hope it serves you well! If you have any questions or feedback, please don't hesitate to reach out.
 
-🌐 [Visit our GitHub Repository](https://github.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms)
+🌐 [Visit our GitHub Repository](https://github.com/mohamadsaleh82/django-blog-rtl)
