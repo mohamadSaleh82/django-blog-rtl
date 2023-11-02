@@ -1,6 +1,6 @@
 # Persian Django Blog 📚🐍
 
-Welcome to the Persian Django Blog project! This comprehensive Hospital Customer Relationship Management (CRM) software, developed in Persian language using C# and Entity Framework with code-first migrations, is designed to empower healthcare professionals and streamline hospital management.
+Welcome to the Persian Django Blog project! This comprehensive Blog Customer Relationship Management (CRM) software, meticulously crafted in Python language using Django framework and equipped with a robust database structure, is designed to empower content creators and streamline blog management. With its user-friendly interface and powerful features, it provides a seamless experience for bloggers to connect with their audience and efficiently manage their content.
 
 
 ## Key Features 🚀
