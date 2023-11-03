@@ -39,7 +39,7 @@ Don't forget to star this repository 🌟 if you find it useful!
 
 ## Contributions Welcome! 🙌
 
-We welcome contributions from the open-source community to make this Django even better. Feel free to fork this repository, create issues, and submit pull requests. Together, we can enhance healthcare management solutions.
+We welcome contributions from the open-source community to make this Django even better. Feel free to fork this repository, create issues, and submit pull requests. Together, we can enhance Blog management solutions.
 
 Thank you for using our Persian Django Blog. We hope it serves you well! If you have any questions or feedback, please don't hesitate to reach out.
 
