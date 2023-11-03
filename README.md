@@ -19,9 +19,9 @@ Django's SEO-friendly features and Bootstrap's clean HTML code ensure that your 
 
 ## Screenshots 📸
 
-![App Screenshots](https://raw.githubusercontent.com/mohamadsaleh82/django-blog-rtl/master/Demo/1.png)
-----------------------------------------------------------
 ![App Screenshots](https://raw.githubusercontent.com/mohamadsaleh82/django-blog-rtl/master/Demo/2.png)
+----------------------------------------------------------
+![App Screenshots](https://raw.githubusercontent.com/mohamadsaleh82/django-blog-rtl/master/Demo/1.png)
 
 
 ## Getting Started 🚀
